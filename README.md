@@ -1,2 +1,2 @@
 # covid-mysql-dbplyr
-covid tab from mysql
+sourcing assembled covid tables from local mysql dataabase for modelling
